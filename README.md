@@ -41,4 +41,4 @@ HackerRank solutions for Python Badge 5 star gold level badge (Daily Update)
 ## 12. Python Functionals
 
 
-## 13. 
+
